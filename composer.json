@@ -1,0 +1,6 @@
+{
+  "name": "nationalfield/tinymce",
+  "require": {
+    "nationalfield/tinymce": "dev-composer"
+  }
+}
